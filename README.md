@@ -18,7 +18,7 @@ Ningún nombre, ni datos que puedan involucrar la violación de datos confidenci
 |  
 ├── README.md         <- Archivo principal descriptivo del proyecto.  
 |  
-├── CONTRIBUTING.md   <- Cómo contribuir al proyecto.  
+├── CONTRIBUTE.md   <- Cómo contribuir al proyecto.  
 |  
 ├── CITATION.md       <- Formas de citar apropiadamente.  
 |  

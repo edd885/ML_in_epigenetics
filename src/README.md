@@ -1,5 +1,3 @@
-# Carpeta SRC - Jupyter Notebook de Análisis
-
 Esta sección contiene un Jupyter Notebook utilizado para realizar un análisis de resultados de laboratorio.
 
 ## Contenido

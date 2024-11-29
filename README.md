@@ -27,21 +27,22 @@ ________________________________________________________________________________
 
 # Estructura general del repositorio
 
-├── LICENSE           <- MIT License.  
-|  
-├── README.md         <- Archivo principal descriptivo del proyecto.  
-|  
-├── CONTRIBUTE.md     <- Cómo contribuir al proyecto.  
-|  
-├── CITATION.md       <- Formas de citar apropiadamente.  
-|  
-├── data              <- Información de los datos.  
-|  
-├── doc               <- Archivos de texto.  
-|  
-├── results           <- Resultados parciales obtenidos en esta etapa.  
-|  
-└── src               <- Archivos de código.  
+    ├── LICENSE           <- MIT License.
+    |  
+    ├── README.md         <- Archivo principal descriptivo del proyecto.  
+    |  
+    ├── CONTRIBUTE.md     <- Cómo contribuir al proyecto.  
+    |  
+    ├── CITATION.md       <- Formas de citar apropiadamente.  
+    |  
+    ├── data              <- Información de los datos.  
+    |  
+    ├── doc               <- Archivos de texto.  
+    |  
+    ├── results           <- Resultados parciales obtenidos en esta etapa. 
+    |  
+    └── src               <- Archivos de código.  
+
 
 ______________________________________________________________
 

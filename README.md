@@ -9,12 +9,12 @@ ________________________________________________________________________________
 
 Proyecto para la Maestría en Ciencias de los Datos, Universidad de Guadalajara
 
-El proyecto presenta un análisis exploratorio de datos obtenidos de resultados de estudios sobre estudios de laboratorio.
-Ningún nombre, ni datos que puedan involucrar la violación de datos confidenciales ha sido utilizado para la exposición de éste análisis.
+El proyecto presenta un análisis exploratorio de datos obtenidos de los exámenes de laboratorio de distintas personas.
+En el presente estudio no se presenta ningún nombre, ni datos que puedan involucrar la violación de datos confidenciales de las personas que se hicieron los exámenes de laboratorio.
 
 # Objetivo
 
-Éste proyecto pretende, pero no está limitado a, mostrar el EDA y avances breves en el proceso ETL
+Éste proyecto pretende, pero no está limitado, a mostrar el Anlaisis Exploratorio de Datos (EDA por sus siglas en Inglés) y avances breves en el proceso de Extracción, Transformación y Carga de Datos (ETL por sus siglas en Inglés).
 
 El objetivo final es ofrecer una herramienta a los médicos que interpretan resultados de pruebas de laboratorio, ayudándoles a mejorar el diagnóstico y tratamiento de sus pacientes. Para alcanzar este fin, se planea desarrollar modelos predictivos basados en algoritmos de aprendizaje automático y redes neuronales, capaces de identificar patrones patológicos o conexiones entre diferentes sistemas del cuerpo humano que estén directamente relacionados con la patología del paciente. 
 Se anticipa que esta investigación aportará al avance del conocimiento científico en laboratorio y ciencia de datos. 
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 |  
 ├── README.md         <- Archivo principal descriptivo del proyecto.  
 |  
-├── CONTRIBUTE.md   <- Cómo contribuir al proyecto.  
+├── CONTRIBUTE.md     <- Cómo contribuir al proyecto.  
 |  
 ├── CITATION.md       <- Formas de citar apropiadamente.  
 |  
@@ -39,9 +39,9 @@ ________________________________________________________________________________
 |  
 ├── doc               <- Archivos de texto.  
 |  
-├── results           <- Resultados parciales obtenidos en ésta etapa.  
+├── results           <- Resultados parciales obtenidos en esta etapa.  
 |  
-└── src               <- Archivos código.  
+└── src               <- Archivos de código.  
 
 ______________________________________________________________
 

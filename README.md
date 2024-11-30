@@ -28,7 +28,27 @@ ________________________________________________________________________________
 
 # Resultados del Proyecto Final
 
+El análisis inicial de este proyecto ya contaba con visualizaciones con el uso de Altair, y para fortalecer el análisis en este proyecto final, se utilizó Python para leer los documentos con los resultados de los pacientes en PDF y Streamlit para mostrar algunos de los resultados del análisis en una App dinámica.
 
+Los resultados de los pacientes originalmente se generan en formato PDF, y es necesario bajar de este formato la información necesaria para este análisis, esto se desarrolla con la librería PyMuPDF de Python.
+
+En el caso de Streamlit, esta herramienta resulta de gran valor para hacer publicaciones con resultados del análisis en una App dinámica, mediante gráficos de barras, gráficos circulares, diagramas de caja (boxplots) y tablas de resumen. 
+
+En el siguiente gráfico se puede apreciar el análisis de resultado mostrando un gráfico de barras y un comparativo de las variables metales pesados y químicos.
+
+![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074209.png)
+
+La siguiente imagen muestra el mismo caso, pero ahora la comparativa se hace entre parásitos y esporas.
+
+![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074223.png)
+
+Estas variables de análisis en las comparativas se llevan a cabo mediante un menú despegable, mostrado en la siguiente imagen:
+
+![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074234.png)
+
+Y por último mostramos una imagen con una imagen de segmentación de pacientes, en la que se incluye vía Streamlit un diagrama circular, un gráfico de barras un boxplot 
+
+![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074248.png)
 
 
 
@@ -39,23 +59,30 @@ ________________________________________________________________________________
 
 # Estructura general del repositorio
 
-    ├── LICENSE           <- MIT License.
+    ├── LICENSE                           <- MIT License.
     |  
-    ├── README.md         <- Archivo principal descriptivo del proyecto.  
+    ├── README.md                         <- Archivo principal descriptivo del proyecto.  
     |  
-    ├── CONTRIBUTE.md     <- Cómo contribuir al proyecto.  
+    ├── CONTRIBUTE.md                     <- Cómo contribuir al proyecto.  
     |  
-    ├── CITATION.md       <- Formas de citar apropiadamente.  
+    ├── CITATION.md                       <- Formas de citar apropiadamente.  
     |  
-    ├── data              <- Información de los datos.  
+    ├── data                              <- Información de los datos.  
+        |── lab_analysis_github.xlsx      <- Archivo con la data del análisis
+        |── README.md                     <- Descripción de la información contenida
+    |
+    ├── doc                               <- Archivos de texto.  
+        |── README.md                     <- Descripción y planteamiento, Objetivo final, Justificación/Relevancia
     |  
-    ├── doc               <- Archivos de texto.  
+    ├── results                           <- Resultados parciales obtenidos en esta etapa. 
+        |── archivos.png                  <- Resultado de challenge terrorismo 
+        └── README.md                     <- Resultados escritos del proyecto intermedio y final.
+            |── Carpeta de resultados     <- Resultados escritos del proyecto intermedio.
+            └── Result de análisis final  <- Resultados escritos del proyecto final.
     |  
-    ├── results           <- Resultados parciales obtenidos en esta etapa. 
-    |  
-    └── src               <- Archivos de código.  
-
-
+    └── src                               <- Archivos de código.  
+        |── eduardo_lab_analysis.ipynb    <- Jupyter Notebook con el código del análisis
+        └── README.md                     <- Descripción del Jupyter Notebook.
 ______________________________________________________________
 
 # Pasos realizados

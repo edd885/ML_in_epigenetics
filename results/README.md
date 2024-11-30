@@ -28,14 +28,18 @@ Los resultados de los pacientes originalmente se generan en formato PDF, y es ne
 En el caso de Streamlit, esta herramienta resulta de gran valor para hacer publicaciones con resultados del análisis en una App dinámica, mediante gráficos de barras, gráficos circulares, diagramas de caja (boxplots) y tablas de resumen. 
 
 En el siguiente gráfico se puede apreciar el análisis de resultado mostrando un gráfico de barras y un comparativo de las variables metales pesados y químicos.
+
 ![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074209.png)
 
 La siguiente imagen muestra el mismo caso, pero ahora la comparativa se hace entre parásitos y esporas.
+
 ![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074223.png)
 
 Estas variables de análisis en las comparativas se llevan a cabo mediante un menú despegable, mostrado en la siguiente imagen:
+
 ![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074234.png)
 
-Y po último mostramos una imagen con una imagen de segmentación de pacientes, en la que se incluye vía Streamlit un diagrama circular, un gráfico de barras un boxplot 
+Y por último mostramos una imagen con una imagen de segmentación de pacientes, en la que se incluye vía Streamlit un diagrama circular, un gráfico de barras un boxplot 
+
 ![]( https://github.com/edd885/Tecnicas-de-machine-learning-en-an-lisis-de-resultados-de-laboratorio/blob/main/results/Screenshot%202024-11-30%20074248.png)
 

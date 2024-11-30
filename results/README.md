@@ -12,3 +12,9 @@ Se pueden usar estas visualizaciones para:
 
 Si tienes alguna contribución, acude a la carpeta de CONTRIBUTIONS para ver las formas en que puedes ayudar a mejorar el presente proyecto
 
+# Resultados del Análisis Final
+
+
+
+
+

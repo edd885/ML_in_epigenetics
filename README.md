@@ -1,4 +1,4 @@
-# ML_in_laboratory
+# Análisis de resultados de exámenes de laboratorio epigenetics
 
 Repositorio con análisis exploratorio para exámenes de laboratorio y sus correlaciones. 
 

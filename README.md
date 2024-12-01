@@ -97,8 +97,10 @@ ______________________________________________________________
 El análisis exploratorio de resultados de laboratorio ofrece una comprensión rápida y de fácil interpretación del dataset obtenido por parte del laboratorio. Los elementos clave se destacan visualmente en algunos gráficos y en la futura publicación del documento completo. En este documento no se incluyen para evitar una posible identificación de un proyecto de gran similitud con el producto final y, la relación de detección de plagio por parte de software especializado.
 
 # Autor
-- Eduardo Carlos Fletes Aréchiga. Estudiante en la Maestría en Ciencia de los Datos, Universidad de Guadalajara, Campus CUCEA.
+- Eduardo Carlos Fletes Aréchiga. 
+- Colaborador Carlos Octavio Mendoza Ruiz.
+Ambos estudiantes en la Maestría en Ciencia de los Datos, Universidad de Guadalajara, Campus CUCEA.
+  
+# Fechas de presentación
 
-# Fecha de presentación
-
-20 Octubre 2024.
+Proyecto Intermedio 20 Octubre 2024.    Proyecto Final 1 Diciembre 2024

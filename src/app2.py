@@ -10,7 +10,7 @@ st.set_page_config(page_title="Segmentación de Pacientes", layout="wide")
 def load_data():
     """Carga el dataset"""
     try:
-        return pd.read_csv('epigen_nov1.csv', encoding='latin1')
+        return pd.read_csv('lab_analysis_github.csv', encoding='latin1')
     except Exception as e:
         st.error(f'Error al cargar el dataset: {e}')
         return None

@@ -12,7 +12,7 @@ def load_data():
     """Carga el dataset"""
     try:
         # Intentar diferentes codificaciones
-        return pd.read_csv('epigen_nov1.csv', encoding='latin1')  # o 'iso-8859-1'
+        return pd.read_csv('lab_analysis_git.csv', encoding='latin1')  # o 'iso-8859-1'
     except Exception as e:
         st.error(f'Error al cargar el dataset: {e}')
         return None

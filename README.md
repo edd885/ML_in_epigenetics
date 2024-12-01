@@ -75,13 +75,15 @@ ________________________________________________________________________________
         |── README.md                     <- Descripción y planteamiento, Objetivo final, Justificación/Relevancia
     |  
     ├── results                           <- Resultados parciales obtenidos en esta etapa. 
-        |── archivos.png                  <- Resultado de challenge terrorismo 
+        |── archivos.png                  <- Imágnes de referencia para el análisis exploratorio.
         └── README.md                     <- Resultados escritos del proyecto intermedio y final.
             |── Carpeta de resultados     <- Resultados escritos del proyecto intermedio.
             └── Result de análisis final  <- Resultados escritos del proyecto final.
     |  
     └── src                               <- Archivos de código.  
-        |── eduardo_lab_analysis.ipynb    <- Jupyter Notebook con el código del análisis
+        |── eduardo_lab_analysis.ipynb    <- Jupyter Notebook con el código del análisis exploratorio.
+        |── app.py                        <- Archivo con código python para Streamlit.
+        |── app2.py                       <- Segundo archivo con código python para Streamlit.
         └── README.md                     <- Descripción del Jupyter Notebook.
 ______________________________________________________________
 

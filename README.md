@@ -75,7 +75,7 @@ ________________________________________________________________________________
         |── README.md                     <- Descripción y planteamiento, Objetivo final, Justificación/Relevancia
     |  
     ├── results                           <- Resultados parciales obtenidos en esta etapa. 
-        |── archivos.png                  <- Imágnes de referencia para el análisis exploratorio.
+        |── archivos.png                  <- Imágenes de referencia para el análisis exploratorio.
         └── README.md                     <- Resultados escritos del proyecto intermedio y final.
             |── Carpeta de resultados     <- Resultados escritos del proyecto intermedio.
             └── Result de análisis final  <- Resultados escritos del proyecto final.
